@@ -73,9 +73,8 @@ const Footer = () => {
               </span>
               NFTs
             </h2>
-            <p>
-            This website was created
-            as a personal project.
+            <p className="pt-4">
+            This website was created <br/> as a personal project.
             </p>
              
           </div>

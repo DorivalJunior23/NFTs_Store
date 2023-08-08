@@ -42,7 +42,7 @@
     color: rgba(255, 255, 255, 0.772);
   }
   
-  .social__links span a {
+  .social__links span a, p {
     text-decoration: none;
   
     color: rgba(255, 255, 255, 0.772);
