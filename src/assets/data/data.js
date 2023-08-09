@@ -19,94 +19,85 @@ export const NFT__DATA = [
   {
     id: "01",
     title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Join the exciting adventure of the Travel Monkey Club! Explore the world's most incredible destinations while making new friends and unforgettable memories.",
     imgUrl: img01,
-    creator: "Trista Francis",
+    creator: "Eleanor Robertson",
     creatorImg: ava01,
-    currentBid: 5.89,
+    currentBid: 5.89
   },
-
   {
     id: "02",
     title: "Sir Lion Swag",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Unleash your inner lion with the trendiest and most stylish lion-themed merchandise. Show off your fierce side with Sir Lion Swag!",
     imgUrl: img02,
-    creator: "Trista Francis",
+    creator: "Liam Thompson",
     creatorImg: ava02,
-    currentBid: 5.09,
+    currentBid: 5.09
   },
-
   {
     id: "03",
     title: "Civilian",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Step into the shoes of a superhero's alter ego – the humble civilian. Explore their ordinary lives and discover the extraordinary stories that lie beneath.",
     imgUrl: img03,
-    creator: "Trista Francis",
+    creator: "Avery Johnson",
     creatorImg: ava03,
-    currentBid: 6.89,
+    currentBid: 6.89
   },
-
   {
     id: "04",
     title: "Guard",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Become the guardian of ancient secrets and mystical realms. Embark on a quest to protect the balance between light and darkness.",
     imgUrl: img04,
-    creator: "Trista Francis",
+    creator: "Dylan Parker",
     creatorImg: ava04,
-    currentBid: 7.89,
+    currentBid: 7.89
   },
-
   {
     id: "05",
     title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Embark on a journey with the Travel Monkey Club and swing through lush jungles, ancient temples, and vibrant cities in search of adventure!",
     imgUrl: img05,
-    creator: "Trista Francis",
+    creator: "Sophia Anderson",
     creatorImg: ava05,
-    currentBid: 4.89,
+    currentBid: 4.89
   },
-
   {
     id: "06",
     title: "Sir Lion Swag",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Roar your way into the spotlight with Sir Lion Swag's collection of bold and stylish apparel. Unleash your inner king or queen of the jungle!",
     imgUrl: img06,
-    creator: "Trista Francis",
+    creator: "Noah Martinez",
     creatorImg: ava06,
-    currentBid: 4.99,
+    currentBid: 4.99
   },
-
   {
     id: "07",
     title: "Civilian",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Discover the untold stories of everyday heroes who shape the world through their ordinary acts of kindness, courage, and compassion.",
     imgUrl: img07,
-    creator: "Trista Francis",
+    creator: "Grace White",
     creatorImg: ava03,
-    currentBid: 5.89,
+    currentBid: 5.89
   },
-
   {
     id: "08",
     title: "Guard",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Stand at the forefront of the eternal battle between good and evil as a fearless Guard. Protect realms, vanquish monsters, and defend the innocent.",
     imgUrl: img08,
-    creator: "Trista Francis",
+    creator: "Ethan Brown",
     creatorImg: ava04,
-    currentBid: 5.89,
+    currentBid: 5.89
   },
-
   {
     id: "09",
     title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Embark on a whirlwind tour around the globe with the Travel Monkey Club. Explore diverse cultures, savor exotic cuisines, and create unforgettable memories!",
     imgUrl: img09,
-    creator: "Trista Francis",
+    creator: "Olivia Davis",
     creatorImg: ava05,
-    currentBid: 5.89,
-  },
+    currentBid: 5.89
+  }
 ];
-
 export const SELLER__DATA = [
   {
     id: "01",

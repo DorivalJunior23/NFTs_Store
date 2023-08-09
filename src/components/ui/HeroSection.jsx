@@ -16,9 +16,7 @@ const HeroSection = () => {
                       <span>sell extraordinary</span> NFTs
                         </h2>
                         <p>
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                            Deleniti excepturi omnis neque adipisci sequi ullam unde in
-                            minus quis quos.
+                        Discover a realm where imagination knows no bounds and art transcends the physical. NFTs is a curated platform dedicated to showcasing the most captivating, unique, and awe-inspiring Non-Fungible Tokens  from visionary artists around the globe.
                         </p>
 
                         <div className="hero__btns d-flex align-items-center gap-4">
