@@ -30,7 +30,7 @@ export const NFT__DATA = [
     title: "Sir Lion Swag",
     desc: "Unleash your inner lion with the trendiest and most stylish lion-themed merchandise. Show off your fierce side with Sir Lion Swag!",
     imgUrl: img02,
-    creator: "Liam Thompson",
+    creator: "Grace White",
     creatorImg: ava02,
     currentBid: 5.09
   },
@@ -39,7 +39,7 @@ export const NFT__DATA = [
     title: "Civilian",
     desc: "Step into the shoes of a superhero's alter ego – the humble civilian. Explore their ordinary lives and discover the extraordinary stories that lie beneath.",
     imgUrl: img03,
-    creator: "Avery Johnson",
+    creator: "Noah Martinez",
     creatorImg: ava03,
     currentBid: 6.89
   },
@@ -57,8 +57,8 @@ export const NFT__DATA = [
     title: "Travel Monkey Club",
     desc: "Embark on a journey with the Travel Monkey Club and swing through lush jungles, ancient temples, and vibrant cities in search of adventure!",
     imgUrl: img05,
-    creator: "Sophia Anderson",
-    creatorImg: ava05,
+    creator: "Eleanor Robertson",
+    creatorImg: ava01,
     currentBid: 4.89
   },
   {
@@ -66,8 +66,8 @@ export const NFT__DATA = [
     title: "Sir Lion Swag",
     desc: "Roar your way into the spotlight with Sir Lion Swag's collection of bold and stylish apparel. Unleash your inner king or queen of the jungle!",
     imgUrl: img06,
-    creator: "Noah Martinez",
-    creatorImg: ava06,
+    creator: "Grace White",
+    creatorImg: ava02,
     currentBid: 4.99
   },
   {
@@ -75,7 +75,7 @@ export const NFT__DATA = [
     title: "Civilian",
     desc: "Discover the untold stories of everyday heroes who shape the world through their ordinary acts of kindness, courage, and compassion.",
     imgUrl: img07,
-    creator: "Grace White",
+    creator: "Noah Martinez",
     creatorImg: ava03,
     currentBid: 5.89
   },
@@ -84,7 +84,7 @@ export const NFT__DATA = [
     title: "Guard",
     desc: "Stand at the forefront of the eternal battle between good and evil as a fearless Guard. Protect realms, vanquish monsters, and defend the innocent.",
     imgUrl: img08,
-    creator: "Ethan Brown",
+    creator: "Dylan Parker",
     creatorImg: ava04,
     currentBid: 5.89
   },
@@ -93,8 +93,8 @@ export const NFT__DATA = [
     title: "Travel Monkey Club",
     desc: "Embark on a whirlwind tour around the globe with the Travel Monkey Club. Explore diverse cultures, savor exotic cuisines, and create unforgettable memories!",
     imgUrl: img09,
-    creator: "Olivia Davis",
-    creatorImg: ava05,
+    creator: "Eleanor Robertson",
+    creatorImg: ava01,
     currentBid: 5.89
   }
 ];
@@ -102,7 +102,7 @@ export const SELLER__DATA = [
   {
     id: "01",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-    sellerName: "Ryan Carder",
+    sellerName: "Eleanor Robertson",
     sellerImg: ava01,
     currentBid: 5.89,
     fbUrl: "#",
@@ -113,7 +113,7 @@ export const SELLER__DATA = [
   {
     id: "02",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-    sellerName: "Trista Francis",
+    sellerName: "Grace White",
     sellerImg: ava02,
     currentBid: 5.89,
     fbUrl: "#",
@@ -124,7 +124,7 @@ export const SELLER__DATA = [
   {
     id: "03",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-    sellerName: "Ryan Carder",
+    sellerName: "Noah Martinez",
     sellerImg: ava03,
     currentBid: 5.89,
     fbUrl: "#",
@@ -137,7 +137,7 @@ export const SELLER__DATA = [
 
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
 
-    sellerName: "Ryan Carder",
+    sellerName: "Dylan Parker",
     sellerImg: ava04,
     currentBid: 5.89,
     fbUrl: "#",
@@ -171,75 +171,5 @@ export const SELLER__DATA = [
     twitUrl: "#",
   },
 
-  {
-    id: "01",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-    sellerName: "Ryan Carder",
-    sellerImg: ava01,
-    currentBid: 5.89,
-    fbUrl: "#",
-    instaUrl: "#",
-    twitUrl: "#",
-  },
-
-  {
-    id: "02",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-    sellerName: "Trista Francis",
-    sellerImg: ava02,
-    currentBid: 5.89,
-    fbUrl: "#",
-    instaUrl: "#",
-    twitUrl: "#",
-  },
-
-  {
-    id: "03",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-    sellerName: "Ryan Carder",
-    sellerImg: ava03,
-    currentBid: 5.89,
-    fbUrl: "#",
-    instaUrl: "#",
-    twitUrl: "#",
-  },
-
-  {
-    id: "04",
-
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
-    sellerName: "Ryan Carder",
-    sellerImg: ava04,
-    currentBid: 5.89,
-    fbUrl: "#",
-    instaUrl: "#",
-    twitUrl: "#",
-  },
-
-  {
-    id: "05",
-
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
-    sellerName: "Trista Francis",
-    sellerImg: ava05,
-    currentBid: 5.89,
-    fbUrl: "#",
-    instaUrl: "#",
-    twitUrl: "#",
-  },
-
-  {
-    id: "06",
-
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
-    sellerName: "Trista Francis",
-    sellerImg: ava06,
-    currentBid: 5.89,
-    fbUrl: "#",
-    instaUrl: "#",
-    twitUrl: "#",
-  },
+  
 ];

@@ -1,5 +1,5 @@
 import React from "react";
-import HeroSection from "../components/ui/HeroSection";
+import HeroSection from "../components/ui/HeroSection/HeroSection";
 import LiveAuction from "../components/ui/Live-auction/LiveAuction";
 
 const Home = () => {
