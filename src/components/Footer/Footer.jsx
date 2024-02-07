@@ -45,7 +45,7 @@ const MY__ACCOUNT = [
   const COMPANY = [
     {
       display: "About",
-      url: "https://dorivaljunior.surge.sh/",
+      url: "https://dorival-junior.vercel.app/",
     },
     {
       display: "Career",
@@ -129,7 +129,7 @@ const Footer = () => {
               </Link>
             </span>
             <span>
-              <Link to="https://dorivaljunior.surge.sh/">
+              <Link to="https://dorival-junior.vercel.app/">
               <i class="ri-global-line"></i>
               </Link>
             </span>
